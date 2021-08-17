@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # hng_stage2_tak
-
+![Demo video](https://github.com/toxic-bishop/hng_stage2_tak/blob/main/output.gif)
 <img src="https://i.imgur.com/TzaOQZs.png" alt="Output 1"/>
 <img src="https://i.imgur.com/i4AzhKq.png" alt="Output 2"/>
